@@ -13,6 +13,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
+    // %s this will be replaced later on with routing naming
     template: "%s | bugbook",
     default: "bugbook",
   },

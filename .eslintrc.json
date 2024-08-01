@@ -1,3 +1,4 @@
+// makes sure that eslint works with prettier and next configs
 {
   "extends": ["next/core-web-vitals", "prettier"]
 }
